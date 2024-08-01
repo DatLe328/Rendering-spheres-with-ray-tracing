@@ -1,0 +1,8 @@
+D:/repos/raytracing/build/CMakeFiles/raytracing.dir
+D:/repos/raytracing/build/CMakeFiles/Experimental.dir
+D:/repos/raytracing/build/CMakeFiles/Nightly.dir
+D:/repos/raytracing/build/CMakeFiles/Continuous.dir
+D:/repos/raytracing/build/CMakeFiles/NightlyMemoryCheck.dir
+D:/repos/raytracing/build/CMakeFiles/RUN_TESTS.dir
+D:/repos/raytracing/build/CMakeFiles/ALL_BUILD.dir
+D:/repos/raytracing/build/CMakeFiles/ZERO_CHECK.dir
